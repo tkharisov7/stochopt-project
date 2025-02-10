@@ -1,1 +1,0 @@
-print("Timur is trash")
